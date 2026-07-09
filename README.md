@@ -1,6 +1,8 @@
 # Laegna18
 Laegna 18 number system.
 
+18 in Laegna - shorthand for "from 1 to 8", iterate digits 1 to 8. It states that initial angle is 1, fractal end angle is 8, thus linear exponent system would count from 1 to 8 in value lane of this number. I use this syntax because it's geometrically reasoned: it follows my imagination closer than actual slices, for example I use 48 to state slice from 5 to 8, because 4 is just better limit of 5, more precise locally - I do this kind of exceptions to confuse you with the syntax, altough there is minimal number of them, basically this one always appearing.
+
 This document is meant as complementary to:
 - https://github.com/tambetvali/SpiritualReasoningLogecs - spirit, Logex Life needs this document and repository because 18 projections need to be understand for linear movement in infinity:
   - The *relator*, in 18 projection, linearly passes all it's 8 phases on standard number axe, being thus a complete-model member of Laegna base cityzens, where 1234 form is clearly separate from IOAE form.
